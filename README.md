@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-3.3.2-green)](https://lightgbm.readthedocs.io/)
 [![MICE](https://img.shields.io/badge/Imputation-MICE-orange)](https://scikit-learn.org/stable/modules/generated/sklearn.impute.IterativeImputer.html)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)]([https://kaggle.com/](https://www.kaggle.com/code/sannimohammedsanni/sales-forecasting-and-inventory-optimization))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **How do you achieve 99.4% forecast accuracy on high-seasonality stores while remaining reliable for outliers?**
