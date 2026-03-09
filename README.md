@@ -219,14 +219,8 @@ cd walmart-sales-forecasting
 pip install -r requirements.txt
 
 # Run the complete pipeline
-jupyter notebook walmart_forecasting_final.ipynb
+sales-forecasting-and-inventory-optimization-.ipynb
 ```
-
-### Key Files:
-- `walmart_forecasting_final.ipynb` - Complete analysis & modeling
-- `feature_engineering.py` - All feature creation functions
-- `model_training.py` - LightGBM with seasonal cross-validation
-- `visualization.py` - Store comparison plots
 
 ---
 
