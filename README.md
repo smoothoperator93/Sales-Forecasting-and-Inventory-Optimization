@@ -10,7 +10,7 @@
 
 A year ago, I thought it was impossible. Then I realized I had been making two fundamental mistakes that were silently sabotaging my predictions.
 
-![Store Comparison](assets/store_comparison.png)
+![Store Comparison](store_comparison.png)
 *One model, two very different store personalities — the same pipeline adapts to both*
 
 ---
@@ -97,7 +97,7 @@ Despite having low seasonality, the model still achieves strong performance, suc
 
 The model converged at **iteration 455**, and feature importance revealed powerful insights about retail:
 
-![Feature Importance](assets/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ### Top 10 Most Important Features:
 
@@ -279,12 +279,6 @@ I'd love feedback from anyone working in:
 - Walmart Recruiting - Store Sales Forecasting (Kaggle competition)
 - Hyndman, R.J., & Athanasopoulos, G. (2021) *Forecasting: Principles and Practice*
 - Scikit-learn's [IterativeImputer](https://scikit-learn.org/stable/modules/generated/sklearn.impute.IterativeImputer.html) documentation
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
