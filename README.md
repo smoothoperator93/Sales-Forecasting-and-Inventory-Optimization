@@ -1,4 +1,4 @@
-# Sales Forecasting & Inventory Optimization for Walmart
+# Sales Forecasting & Inventory Optimization for Dalmart
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-3.3.2-green)](https://lightgbm.readthedocs.io/)
